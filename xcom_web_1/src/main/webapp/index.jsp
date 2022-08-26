@@ -11,10 +11,6 @@
 <body>
 	<div class="container.mt-4">
 		<h1>Hello Spring Web</h1>
-		<h3>Courses</h3>
-		<div>
-		<a class="btn btn-primary " href="course-edit">Add New Course</a>
-		</div>
 	</div>
 </body>
 </html>
